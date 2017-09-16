@@ -3,5 +3,6 @@
 void main()
 { clrscr();
   printf("nishant");
+  printf("test1");
   getch();
 }
