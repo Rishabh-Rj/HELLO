@@ -5,5 +5,6 @@ void main()
   printf("nishant");
   printf("test1");
   dffrdgdheh
+    nooooo
   getch();
 }
